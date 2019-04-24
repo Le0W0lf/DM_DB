@@ -1,0 +1,1166 @@
+Ааракокра (Aarakocra)
+DB/0.txt
+Аболет (Aboleth)
+DB/1.txt
+Адепт боевых искусств (Martial arts adept)
+DB/2.txt
+Адская гончая (Hell hound)
+DB/3.txt
+Аллозавр (Allosaurus)
+DB/4.txt
+Алхун (Alhoon)
+DB/5.txt
+Альфа грик (Grick alpha)
+DB/6.txt
+Андросфинкс (Androsphinx)
+DB/7.txt
+Анкилозавр (Ankylosaurus)
+DB/8.txt
+Анхег (Ankheg)
+DB/9.txt
+Арканалот (Arcanaloth)
+DB/10.txt
+Архидруид (Archdruid)
+DB/11.txt
+Архимаг (Archmage)
+DB/12.txt
+Астральный Дредноут (Astral Dreadnought)
+DB/13.txt
+Бабау (Babau)
+DB/14.txt
+Бабуин (Baboon)
+DB/15.txt
+Балор (Balor)
+DB/16.txt
+Балханнот (Balhannoth)
+DB/17.txt
+Бандерхобб (Banderhobb)
+DB/18.txt
+Баньши (Banshee)
+DB/19.txt
+Баргест (Barghest)
+DB/20.txt
+Бард (Bard)
+DB/21.txt
+Барлгура (Barlgura)
+DB/22.txt
+Барон сахуагинов (Sahuagin baron)
+DB/23.txt
+Барсук (Badger)
+DB/24.txt
+Белый медведь (Polar bear)
+DB/25.txt
+Бербаланг (Berbalang)
+DB/26.txt
+Берсерк (Berserker)
+DB/27.txt
+Бес (Imp)
+DB/28.txt
+Бехир (Behir)
+DB/29.txt
+Блуждающий огонек (Will-o’-wisp)
+DB/30.txt
+Боггл (Boggle)
+DB/31.txt
+Бодак (Bodak)
+DB/32.txt
+Боевой вождь орков (Orc war chief)
+DB/33.txt
+Боевой конь (Warhorse)
+DB/34.txt
+Боевой священник (War priest)
+DB/35.txt
+Бормочущий ротовик (Gibbering mouther)
+DB/36.txt
+Бородатый дьявол (Барбазу) (Bearded devil)
+DB/37.txt
+Босс гоблинов (Goblin boss)
+DB/38.txt
+Бронзовый скаут (Bronze Scout)
+DB/39.txt
+Бронтозавр (Brontosaurus)
+DB/40.txt
+Бурый медведь (Brown bear)
+DB/41.txt
+Бурый увалень (Umber hulk)
+DB/42.txt
+Вампир (Vampire)
+DB/43.txt
+Варгулья (Vargoulle)
+DB/44.txt
+Василиск (Basilisk)
+DB/45.txt
+Вегепигмей (Vegepygmy)
+DB/46.txt
+Вегепигмей вождь (Vegepygmy chief)
+DB/47.txt
+Велоцираптор (Velociraptor)
+DB/48.txt
+Верблюд (Camel)
+DB/49.txt
+Вервепрь (Wereboar)
+DB/50.txt
+Вервольф (Werewolf)
+DB/51.txt
+Веревочник (Roper)
+DB/52.txt
+Веркрыса (Wererat)
+DB/53.txt
+Вермедведь (Werebear)
+DB/54.txt
+Вертигр (Weretiger)
+DB/55.txt
+Верховный жрец Куо-тоа (Kuo-toa archpriеst)
+DB/56.txt
+Верховный миконид (Myconid sovereign)
+DB/57.txt
+Ветвистая зараза (Twig blight)
+DB/58.txt
+Ветеран (Veteran)
+DB/59.txt
+Взрослый белый дракон (Adult white dragon)
+DB/60.txt
+Взрослый бронзовый дракон (Adult bronse dragon)
+DB/61.txt
+Взрослый зеленый дракон (Adult green dragon)
+DB/62.txt
+Взрослый золотой дракон (Adult gold dragon)
+DB/63.txt
+Взрослый красный дракон (Adult red dragon)
+DB/64.txt
+Взрослый латунный дракон (Adult brass dragon)
+DB/65.txt
+Взрослый медный дракон (Adult copper dragon)
+DB/66.txt
+Взрослый миконид (Myconid adult)
+DB/67.txt
+Взрослый серебряный дракон (Adult silver dragon)
+DB/68.txt
+Взрослый синий дракон (Adult blue dragon)
+DB/69.txt
+Взрослый черный дракон (Adult black dragon)
+DB/70.txt
+Виверна (Wyvern)
+DB/71.txt
+Визгун (Shrieker)
+DB/72.txt
+Вирмлинг белого дракона (White dragon wyrmling)
+DB/73.txt
+Вирмлинг бронзового дракона (Bronse dragon wyrmling)
+DB/74.txt
+Вирмлинг зеленого дракона (Green dragon wyrmling)
+DB/75.txt
+Вирмлинг золотого дракона (Gold dragon wyrmling)
+DB/76.txt
+Вирмлинг красного дракона (Red dragon wyrmling)
+DB/77.txt
+Вирмлинг латунного дракона (Brass dragon wyrmling)
+DB/78.txt
+Вирмлинг медного дракона (Copper dragon wyrmling)
+DB/79.txt
+Вирмлинг серебряного дракона (Silver dragon wyrmling)
+DB/80.txt
+Вирмлинг синего дракона (Blue dragon wyrmling)
+DB/81.txt
+Вирмлинг черного дракона (Black dragon wyrmling)
+DB/82.txt
+Водная аномалия (Water weird)
+DB/83.txt
+Водянник (Merrow)
+DB/84.txt
+Водяной элементаль (Water elemental)
+DB/85.txt
+Военачальник (Warlord)
+DB/86.txt
+Вожак стаи гноллов (Gnoll pack lord)
+DB/87.txt
+Вождь медвежатников (Bugbear chief)
+DB/88.txt
+Воздушный элементаль (Air elemental)
+DB/89.txt
+Воитель племени (Tribal warrior)
+DB/90.txt
+Вол (Ox)
+DB/91.txt
+Волк (Wolf)
+DB/92.txt
+Волшебный дракончик (Faerie dragon)
+DB/93.txt
+Воплотитель (Evoker)
+DB/94.txt
+Ворг (Worg)
+DB/95.txt
+Ворон (Raven)
+DB/96.txt
+Врок (Vrock)
+DB/97.txt
+Вурдалак (Ghast)
+DB/98.txt
+Вьющаяся зараза (Vine blight)
+DB/99.txt
+Гадрозавр (Hadrosaurus)
+DB/100.txt
+Газовая спора (Gas spore)
+DB/101.txt
+Галеб дур (Galeb duhr)
+DB/102.txt
+Гарпия (Harpy)
+DB/103.txt
+Гаут (Gauth)
+DB/104.txt
+Гигантская акула (Giant shark)
+DB/105.txt
+Гигантская гиена (Giant hyena)
+DB/106.txt
+Гигантская жаба (Giant toad)
+DB/107.txt
+Гигантская крыса (Giant rat)
+DB/108.txt
+Гигантская куница (Giant weasel)
+DB/109.txt
+Гигантская летучая мышь (Giant bat)
+DB/110.txt
+Гигантская лягушка (Giant frog)
+DB/111.txt
+Гигантская многоножка (Giant centipede)
+DB/112.txt
+Гигантская оса (Giant wasp)
+DB/113.txt
+Гигантская сова (Giant owl)
+DB/114.txt
+Гигантская человекообразная обезьяна (Giant ape)
+DB/115.txt
+Гигантская ядовитая змея (Giant poisonous snake)
+DB/116.txt
+Гигантская ящерица (Giant lizard)
+DB/117.txt
+Гигантский барсук (Giant badger)
+DB/118.txt
+Гигантский гриф (Giant vulture)
+DB/119.txt
+Гигантский кабан (Giant boar)
+DB/120.txt
+Гигантский козел (Giant goat)
+DB/121.txt
+Гигантский краб (Giant crab)
+DB/122.txt
+Гигантский крокодил (Giant crocodile)
+DB/123.txt
+Гигантский лось (Giant elk)
+DB/124.txt
+Гигантский морской конек (Giant sea horse)
+DB/125.txt
+Гигантский огненный жук (Giant fire bittle)
+DB/126.txt
+Гигантский орел (Giant eagle)
+DB/127.txt
+Гигантский осьминог (Giant octopus)
+DB/128.txt
+Гигантский паук (Giant spider)
+DB/129.txt
+Гигантский паук-волк (Giant wolf spider)
+DB/130.txt
+Гигантский скорпион (Giant scorpion)
+DB/131.txt
+Гигантский удав (Giant constrictor snake)
+DB/132.txt
+Гигантский ходун (Giant strider)
+DB/133.txt
+Гидра (Hydra)
+DB/134.txt
+Гиена (Hyena)
+DB/135.txt
+Гиносфинкс (Gynosphinx)
+DB/136.txt
+Гиппогриф (Hippogriff)
+DB/137.txt
+Гираллон (Girallon)
+DB/138.txt
+Гитцерай зерт (Githzerai zerth)
+DB/139.txt
+Гитцерай монах (Githzerai monk)
+DB/140.txt
+Гитъянки воитель (Githyanki warrior)
+DB/141.txt
+Гитъянки рыцарь (Githyanki knight)
+DB/142.txt
+Глабрезу (Glabrezu)
+DB/143.txt
+Гладиатор (Gladiator)
+DB/144.txt
+Глиняный голем (Clay golem)
+DB/145.txt
+Глубинный гном (Свирфнеблин) (Gnome, deep (Svirfneblin))
+DB/146.txt
+Глубинный роф (Deep rothe)
+DB/147.txt
+Гнолл (Gnoll)
+DB/148.txt
+Гнолл глодатель (Gnoll flesh gnawer)
+DB/149.txt
+Гнолл клык Йеногу (Gnoll fang of Yeenoghu)
+DB/150.txt
+Гнолл охотник (Gnoll hunter)
+DB/151.txt
+Гоблин (Goblin)
+DB/152.txt
+Головорез (Thug)
+DB/153.txt
+Гомункул (Homunculus)
+DB/154.txt
+Гончая йет (Yeth hound)
+DB/155.txt
+Горгона (Gorgon)
+DB/156.txt
+Горгулья (Gargoyle)
+DB/157.txt
+Гористро (Goristro)
+DB/158.txt
+Грелл (Grell)
+DB/159.txt
+Грик (Grick)
+DB/160.txt
+Гримлок (Grimlock)
+DB/161.txt
+Гриф (Vulture)
+DB/162.txt
+Грифон (Griffon)
+DB/163.txt
+Грунг (Grung)
+DB/164.txt
+Грязевой мефит (Mud mephit)
+DB/165.txt
+Дао (Dao)
+DB/166.txt
+Дарклинг (Darkling)
+DB/167.txt
+Дворянин (Noble)
+DB/168.txt
+Дейноних (Deinonychus)
+DB/169.txt
+Дельфин (Dolphin)
+DB/170.txt
+Демилич (Demilich)
+DB/171.txt
+Джинн (Djinni)
+DB/172.txt
+Дикий грунг (Grung wildling)
+DB/173.txt
+Диметродон (Dimetrodon)
+DB/174.txt
+Доппельгангер (Doppelganger)
+DB/175.txt
+Драколич (шаблон) (Dracolich)
+DB/176.txt
+Драконий клык (Dragonfang)
+DB/177.txt
+Драконий коготь (Dragonclaw)
+DB/178.txt
+Драконье крыло (Dragonwing)
+DB/179.txt
+Дракочерепаха (Dragon turtle)
+DB/180.txt
+Драук (Drider)
+DB/181.txt
+Древний белый дракон (Ancient white dragon)
+DB/182.txt
+Древний бронзовый дракон (Ancient bronse dragon)
+DB/183.txt
+Древний зеленый дракон (Ancient green dragon)
+DB/184.txt
+Древний золотой дракон (Ancient gold dragon)
+DB/185.txt
+Древний красный дракон (Ancient red dragon)
+DB/186.txt
+Древний латунный дракон (Ancient brass dragon)
+DB/187.txt
+Древний медный дракон (Ancient copper dragon)
+DB/188.txt
+Древний серебряный дракон (Ancient silver dragon)
+DB/189.txt
+Древний синий дракон (Ancient blue dragon)
+DB/190.txt
+Древний черный дракон (Ancient black dragon)
+DB/191.txt
+Дредноут огненный великан (Fire giant dreadnought)
+DB/192.txt
+Дретч (Dretch)
+DB/193.txt
+Дриада (Dryad)
+DB/194.txt
+Дроу (Drow)
+DB/195.txt
+Дроу жрица Лолс (Drow priestess of Lolth)
+DB/196.txt
+Друид (Druid)
+DB/197.txt
+Дрэглот (Draegloth)
+DB/198.txt
+Дубовый Стрелок (Oaken Bolter)
+DB/199.txt
+Дуодрон (Duodrone)
+DB/200.txt
+Духовная нага (Spirit naga)
+DB/201.txt
+Душа дракона (Dragonsoul)
+DB/202.txt
+Душитель (Choker)
+DB/203.txt
+Дуэргар (Duergar)
+DB/204.txt
+Дымовой мефит (Smoke mephit)
+DB/205.txt
+Дьявол цепей (Китон) (Chain devil)
+DB/206.txt
+Дэв (Deva)
+DB/207.txt
+Дэтлок (Deathlock)
+DB/208.txt
+Единорог (Unicorn)
+DB/209.txt
+Ездовая лошадь (Riding horse)
+DB/210.txt
+Жаболюд (Bullywug)
+DB/211.txt
+Железная кобра (Iron Cobra)
+DB/212.txt
+Железный голем (Iron golem)
+DB/213.txt
+Жрец Кракена (Kraken priest)
+DB/214.txt
+Жрица сахуагинов (Sahuagin priestess)
+DB/215.txt
+Зеленая карга (Green hag)
+DB/216.txt
+Зеленый слаад (Green slaad)
+DB/217.txt
+Земляной элементаль (Earth elemental)
+DB/218.txt
+Злобоглаз (Beholder)
+DB/219.txt
+Злобоглаз зомби (Beholder zombie)
+DB/220.txt
+Зловонный бык (Stench kow)
+DB/221.txt
+Злой маг (Evil mage)
+DB/222.txt
+Золотистый студень (Ochre jelly)
+DB/223.txt
+Зомби (Zombie)
+DB/224.txt
+Зорн (Xorn)
+DB/225.txt
+Игольчатая зараза (Needle blight)
+DB/226.txt
+Игольчатый дьявол (Спинагон) (Spined devil)
+DB/227.txt
+Извечный морозный великан (Frost giant everlasting one)
+DB/228.txt
+Иллюзионист (Illusionist)
+DB/229.txt
+Иссохший гнолл (Gnoll witherling)
+DB/230.txt
+Исчадие преисподней (Pit fiend)
+DB/231.txt
+Исчезающий паук (Phase spider)
+DB/232.txt
+Ифрит (Efreeti)
+DB/233.txt
+Йети (Yeti)
+DB/234.txt
+Йоклол (Yochlol)
+DB/235.txt
+Кабан (Boar)
+DB/236.txt
+Камбион (Cambion)
+DB/237.txt
+Каменный великан (Stone giant)
+DB/238.txt
+Каменный великан сноходец (Stone giant dreamwalker)
+DB/239.txt
+Каменный голем (Stone golem)
+DB/240.txt
+Каменный Защитник (Stone Defender)
+DB/241.txt
+Капитан разбойников (Bandit captain)
+DB/242.txt
+Капитан хобгоблинов (Hobgoblin captain)
+DB/243.txt
+Карга аннис (Annis hag)
+DB/244.txt
+Карга бьёр (Bheur hag)
+DB/245.txt
+Катоблепас (Catoblepas)
+DB/246.txt
+Кваггот (Quaggoth)
+DB/247.txt
+Кваггот споровый слуга (шаблон) (Quaggoth spore servant)
+DB/248.txt
+Квадрон (Quadrone)
+DB/249.txt
+Квазилич (Boneclaw)
+DB/250.txt
+Квазит (Quasit)
+DB/251.txt
+Квиклинг (Quickling)
+DB/252.txt
+Квиппер (Quipper)
+DB/253.txt
+Кенку (Kenku)
+DB/254.txt
+Кентавр (Centaur)
+DB/255.txt
+Кетцалькоатль (Quetzalcoatlus)
+DB/256.txt
+Ки-рин (Ki-rin)
+DB/257.txt
+Коатль (Couatl)
+DB/258.txt
+Кобольд (Kobold)
+DB/259.txt
+Кобольд драконий щит (Kobold dragonshield)
+DB/260.txt
+Кобольд изобретатель (Kobold inventor)
+DB/261.txt
+Кобольд чешуйчатый чародей (Kobold scale sorcerer)
+DB/262.txt
+Ковер удушения (Rug of smothering)
+DB/263.txt
+Козел (Goat)
+DB/264.txt
+Колдун Архифеи (Warlock of the Archfey)
+DB/265.txt
+Колдун Великого Древнего (Warlock of the Great Old One)
+DB/266.txt
+Колдун Исчадия (Warlock of the Fiend)
+DB/267.txt
+Колючка (Thorny)
+DB/268.txt
+Корова (Cow)
+DB/269.txt
+Король/Королева ящеров (Lizard king/queen)
+DB/270.txt
+Корред (Korred)
+DB/271.txt
+Косатка (Killer whale)
+DB/272.txt
+Костяная нага (Bone naga)
+DB/273.txt
+Костяной дьявол (Осилут) (Bone devil)
+DB/274.txt
+Кошка (Cat)
+DB/275.txt
+Кошмар (Nightmare)
+DB/276.txt
+Краб (Crab)
+DB/277.txt
+Кракен (Kraken)
+DB/278.txt
+Красноклейменный головорез (Red ruffian)
+DB/279.txt
+Красный колпак (Redcap)
+DB/280.txt
+Красный полудракон ветеран (шаблон) (Half-dragon (template))
+DB/281.txt
+Красный слаад (Red slaad)
+DB/282.txt
+Кровавый ястреб (Blood Hawk)
+DB/283.txt
+Кровопийца (Stirge)
+DB/284.txt
+Крокодил (Crocodile)
+DB/285.txt
+Крошечный слуга (Tiny servant)
+DB/286.txt
+Крылатый кобольд (Winged kobold)
+DB/287.txt
+Крыса (Rat)
+DB/288.txt
+Крюкастый ужас (Hook horror)
+DB/289.txt
+Ксварт (Xvart)
+DB/290.txt
+Ксварт колдун раксиворта (Xvart warlock of raxivort)
+DB/291.txt
+Культист (Cultist)
+DB/292.txt
+Куница (Weasel)
+DB/293.txt
+Куо-тоа (Kuo-toa)
+DB/294.txt
+Куо-тоа кнут (Kuo-toa whip)
+DB/295.txt
+Куролиск (Cockatrice)
+DB/296.txt
+Ламия (Lamia)
+DB/297.txt
+Лев (Lion)
+DB/298.txt
+Ледяная жаба (Ice toad)
+DB/299.txt
+Ледяной великан (Frost giant)
+DB/300.txt
+Ледяной дьявол (Гелюгон) (Ice devil)
+DB/301.txt
+Ледяной мефит (Ice mephit)
+DB/302.txt
+Лекротта (Leucrotta)
+DB/303.txt
+Лемур (Lemure)
+DB/304.txt
+Лесная Вайда (Wood Woad)
+DB/305.txt
+Летающая змея (Flying snake)
+DB/306.txt
+Летающий меч (Flying sword)
+DB/307.txt
+Летучая мышь (Bat)
+DB/308.txt
+Лиловый гриб (Violet fungus)
+DB/309.txt
+Лиловый червь (Purple worm)
+DB/310.txt
+Лич (Lich)
+DB/311.txt
+Лорд-мумия (Mummy lord)
+DB/312.txt
+Лось (Elk)
+DB/313.txt
+Лучник (Archer)
+DB/314.txt
+Людоящер (Lizardfolk)
+DB/315.txt
+Людоящер шаман (Lizardfolk shaman)
+DB/316.txt
+Лютый волк (Dire wolf)
+DB/317.txt
+Лягемот (Froghemoth)
+DB/318.txt
+Лягушка (Frog)
+DB/319.txt
+Маг (Mage)
+DB/320.txt
+Маг дроу (Drow mage)
+DB/321.txt
+Магмин (Magmin)
+DB/322.txt
+Магмовый мефит (Magma mephit)
+DB/323.txt
+Мамонт (Mammoth)
+DB/324.txt
+Мантикора (Manticore)
+DB/325.txt
+Марид (Marid)
+DB/326.txt
+Марилит (Marilith)
+DB/327.txt
+Мастер-вор (Master thief)
+DB/328.txt
+Мастифф (Mastiff)
+DB/329.txt
+Медвежатник (Bugbear)
+DB/330.txt
+Медуза (Medusa)
+DB/331.txt
+Меззолот (Mezzoloth)
+DB/332.txt
+Мерфолк (Merfolk)
+DB/333.txt
+Мерцающий пес (Blink dog)
+DB/334.txt
+Мимик (Mimic)
+DB/335.txt
+Минлок (Meenlock)
+DB/336.txt
+Минотавр (Minotaur)
+DB/337.txt
+Молодой белый дракон (Young white dragon)
+DB/338.txt
+Молодой бронзовый дракон (Young bronze dragon)
+DB/339.txt
+Молодой зеленый дракон (Young green dragon)
+DB/340.txt
+Молодой золотой дракон (Young gold dragon)
+DB/341.txt
+Молодой красный дракон (Young red dragon)
+DB/342.txt
+Молодой латунный дракон (Young brass dragon)
+DB/343.txt
+Молодой медный дракон (Young copper dragon)
+DB/344.txt
+Молодой ремораз (Young remorhaz)
+DB/345.txt
+Молодой серебряный дракон (Young silver dragon)
+DB/346.txt
+Молодой синий дракон (Young blue dragon)
+DB/347.txt
+Молодой черный дракон (Young black dragon)
+DB/348.txt
+Монодрон (Monodrone)
+DB/349.txt
+Моркот (Morkoth)
+DB/350.txt
+Морская карга (Sea hag)
+DB/351.txt
+Морское отродье (Sea spawn)
+DB/352.txt
+Морской конек (Sea horse)
+DB/353.txt
+Мул (Mule)
+DB/354.txt
+Мумия (Mummy)
+DB/355.txt
+Мэйн (Manes)
+DB/356.txt
+Мясной голем (Flesh golem)
+DB/357.txt
+Наблюдатель (Spectator)
+DB/358.txt
+Наемный убийца (Assassin)
+DB/359.txt
+Нальфешни (Nalfeshnee)
+DB/360.txt
+Невидимый охотник (Invisible stalker)
+DB/361.txt
+Неззнар Черный Паук (The Black Spider)
+DB/362.txt
+Некромант (Necromancer)
+DB/363.txt
+Неоги (Neogi)
+DB/364.txt
+Неоги личинка (Neogi hatchling)
+DB/365.txt
+Неоги повелитель (Neogi master)
+DB/366.txt
+Неотелид (Neothelid)
+DB/367.txt
+Никалот (Nycaloth)
+DB/368.txt
+Нилбог (Nilbog)
+DB/369.txt
+Носорог (Rhinoceros)
+DB/370.txt
+Носящий пурпур Неронвейн (Neronvain)
+DB/371.txt
+Носящий пурпур Северпин (Severin)
+DB/372.txt
+Нотик (Nothic)
+DB/373.txt
+Ночная карга (Night hag)
+DB/374.txt
+Нэйргот лорд Клинков (Naergoth bladelord)
+DB/375.txt
+Облачный великан (Cloud giant)
+DB/376.txt
+Образ смерти
+DB/377.txt
+Обыватель (Commoner)
+DB/378.txt
+Огненная змея (Fire snake)
+DB/379.txt
+Огненный великан (Fire giant)
+DB/380.txt
+Огненный тритон воин (Firenewt warrior)
+DB/381.txt
+Огненный тритон колдун Имикса (Firenewt warlock of Imix)
+DB/382.txt
+Огненный элементаль (Fire elemental)
+DB/383.txt
+Огр (Ogre)
+DB/384.txt
+Огр зомби (Ogre zombie)
+DB/385.txt
+Оградитель (Abjurer)
+DB/386.txt
+Оживленный доспех (Animated armor)
+DB/387.txt
+Олень (Deer)
+DB/388.txt
+Они (Oni)
+DB/389.txt
+Орел (Eagle)
+DB/390.txt
+Орк (Orc)
+DB/391.txt
+Орк вскормленный Юртруса (Orc nurtured one of Yurtrus)
+DB/392.txt
+Орк клинок Илневала (Orc blade of Ilneval)
+DB/393.txt
+Орк коготь Лутик (Orc claw of Luthic)
+DB/394.txt
+Орк красный клык Шаргааса (Orc red fang of Shargaas)
+DB/395.txt
+Орк око Груумша (Orc eye of Gruumsh)
+DB/396.txt
+Орк рука Юртруса (Orc hand of Yurtrus)
+DB/397.txt
+Орог (Orog)
+DB/398.txt
+Осьминог (Octopus)
+DB/399.txt
+Отвратительный йети (Abominable yeti)
+DB/400.txt
+Отидж (Otyugh)
+DB/401.txt
+Отпрыск глубин (Deep scion)
+DB/402.txt
+Отродье юань-ти (Yoan-ti abomination)
+DB/403.txt
+Охотничья акула (Hunter shark)
+DB/404.txt
+Охранная нага (Guardian naga)
+DB/405.txt
+Очарователь (Enchanter)
+DB/406.txt
+Пантера (Panther)
+DB/407.txt
+Панцирница (Bulette)
+DB/408.txt
+Паровой мефит (Steam mephit)
+DB/409.txt
+Пасть Гролантора (Mouth of Grolantor)
+DB/410.txt
+Паук (Spider)
+DB/411.txt
+Пегас (Pegasus)
+DB/412.txt
+Пентадрон (Pentadrone)
+DB/413.txt
+Перитон (Peryton)
+DB/414.txt
+Пес смерти (Death dog)
+DB/415.txt
+Пещерный удильщик (Cave fisher)
+DB/416.txt
+Пикси (Pixie)
+DB/417.txt
+Планетар (Planetar)
+DB/418.txt
+Плащевик (Cloacker)
+DB/419.txt
+Плезиозавр (Plesiosaurus)
+DB/420.txt
+Пожиратель (Devourer)
+DB/421.txt
+Пожиратель интеллекта (Intellect devourer)
+DB/422.txt
+Ползающая насыпь (Shambling mound)
+DB/423.txt
+Ползающая рука (Crawling claw)
+DB/424.txt
+Ползающий падальщик (Carrion crawler)
+DB/425.txt
+Полуогр (Half-ogre)
+DB/426.txt
+Полярный волк (Winter wolf)
+DB/427.txt
+Пони (Pone)
+DB/428.txt
+Порождение вампира (Vampire spawn)
+DB/429.txt
+Порождения Кьюсса (Spawn of Kyuss)
+DB/430.txt
+Поцелуй смерти (Death kiss)
+DB/431.txt
+Преобразователь (Transmuter)
+DB/432.txt
+Привидение (Ghost)
+DB/433.txt
+Призрак (Wraith)
+DB/434.txt
+Призрак Мормеска (Mormesk the wraith)
+DB/435.txt
+Прислужник (Acolyte)
+DB/436.txt
+Пробужденное дерево (Awakened tree)
+DB/437.txt
+Пробужденный куст (Awakened shrub)
+DB/438.txt
+Пронзатель (Piercer)
+DB/439.txt
+Псевдодракон (Pseudodragon)
+DB/440.txt
+Птеранодон (Pteranodon)
+DB/441.txt
+Пугало (Scarecrow)
+DB/442.txt
+Пылающий череп (Flameskull)
+DB/443.txt
+Пылевой мефит (Dust mephit)
+DB/444.txt
+Разбойник (Bandit)
+DB/445.txt
+Разведчик (Scout)
+DB/446.txt
+Ракшас (Rakshasa)
+DB/447.txt
+Рат Модар (Rath Modar)
+DB/448.txt
+Ревенант (Revenant)
+DB/449.txt
+Ремораз (Remorhaz)
+DB/450.txt
+Ржавник (Rust monster)
+DB/451.txt
+Рифовая акула (Reef shark)
+DB/452.txt
+Рогатый дьявол (Мальбранш) (Horned devil)
+DB/453.txt
+Рой воронов (Swarm of ravens)
+DB/454.txt
+Рой квипперов (Swarm of quippers)
+DB/455.txt
+Рой крыс (Swarm of rats)
+DB/456.txt
+Рой летучих мышей (Swarm of bats)
+DB/457.txt
+Рой насекомых (Swarm of insects)
+DB/458.txt
+Рой трупных личинок (Swarm of Rot Grubs)
+DB/459.txt
+Рой ядовитых змей (Swarm of poisonous snakes)
+DB/460.txt
+Росток миконида (Myconid sprout)
+DB/461.txt
+Роф (Rothe)
+DB/462.txt
+Рух (Roc)
+DB/463.txt
+Рыцарь (Knight)
+DB/464.txt
+Рыцарь смерти (Death knight)
+DB/465.txt
+Саблезубый тигр (Saber-toothed tiger)
+DB/466.txt
+Саламандра (Salamander)
+DB/467.txt
+Сатир (Satyr)
+DB/468.txt
+Сахуагин (Sahuagin)
+DB/469.txt
+Свежеватель разума (Mind flayer)
+DB/470.txt
+Свидетель разума (Mindwitness)
+DB/471.txt
+Священник (Priest)
+DB/472.txt
+Серая слизь (Gray ooze)
+DB/473.txt
+Серый слаад (Gray slaad)
+DB/474.txt
+Сильдар Холлвинтер (Sildar Hallwinter)
+DB/475.txt
+Синий слаад (Blue slaad)
+DB/476.txt
+Скелет (Skeleton)
+DB/477.txt
+Скелет боевого коня (Warhorse skeleton)
+DB/478.txt
+Скелет минотавра (Minotaur skeleton)
+DB/479.txt
+Склизкий преследователь (Slithering tracker)
+DB/480.txt
+Скорпион (Scorpion)
+DB/481.txt
+Скраг (Scrag)
+DB/482.txt
+Слаад головастик (Slaad tadpole)
+DB/483.txt
+Слон (Elefant)
+DB/484.txt
+Смертельный слаад (Death slaad)
+DB/485.txt
+Смотрящий (Gazer)
+DB/486.txt
+Собиратель Трупов (Cadaver Collector)
+DB/487.txt
+Сова (Owl)
+DB/488.txt
+Совомед (Owlbear)
+DB/489.txt
+Солар (Solar)
+DB/490.txt
+Сорвиголова (Swashbuckler)
+DB/491.txt
+Спектр (Specter)
+DB/492.txt
+Спрайт (Sprite)
+DB/493.txt
+Старейшина дарклингов (Darkling elder)
+DB/494.txt
+Старший мозг (Elder brain)
+DB/495.txt
+Стая черепных крыс (Swarm of cranium rats)
+DB/496.txt
+Стегозавр (Stegosaurus)
+DB/497.txt
+Сторожевой дрейк (Guard drake)
+DB/498.txt
+Страж (Guard)
+DB/499.txt
+Студенистый куб (Gelatinous cube)
+DB/500.txt
+Суккуб / Инкуб (Succubus / Incubus)
+DB/501.txt
+Танарукк (Tanarukk)
+DB/502.txt
+Тараск (Tarrasque)
+DB/503.txt
+Темная мантия (Darkmantle)
+DB/504.txt
+Темный страж (Blackguard)
+DB/505.txt
+Теневой демон (Shadow demon)
+DB/506.txt
+Теневой дракон (шаблон) (Shadow dragon (template))
+DB/507.txt
+Теневой мастифф (Shadow mastiff)
+DB/508.txt
+Тень (Shadow)
+DB/509.txt
+Тиамат (Tiamat)
+DB/510.txt
+Тигр (Tiger)
+DB/511.txt
+Тиран смерти (Death tyrant)
+DB/512.txt
+Тираннозавр рекс (Tyrannosaurus rex)
+DB/513.txt
+Тлинкалли (Tlincalli)
+DB/514.txt
+Топороклюв (Axe baek)
+DB/515.txt
+Траппер (Trapper)
+DB/516.txt
+Трент (Treant)
+DB/517.txt
+Три-крин (Thri-kreen)
+DB/518.txt
+Тридрон (Tridrone)
+DB/519.txt
+Трицератопс (Triceratops)
+DB/520.txt
+Троглодит (Troglodyte)
+DB/521.txt
+Тролль (Troll)
+DB/522.txt
+Трупоцвет (Corpse Flower)
+DB/523.txt
+Тур (Aurochs)
+DB/524.txt
+Удав (Constrictor snake)
+DB/525.txt
+Улитарид (Ulitharid)
+DB/526.txt
+Ультролот (Ultroloth)
+DB/527.txt
+Умертвие (Wight)
+DB/528.txt
+Упряжная лошадь (Draft horse)
+DB/529.txt
+Упырь (Ghoul)
+DB/530.txt
+Ускользающий зверь (Displacer beast)
+DB/531.txt
+Утробный демон (Maw demon)
+DB/532.txt
+Ученик волшебника (Apprentice wizard)
+DB/533.txt
+Фанатик культа (Cult fanatic)
+DB/534.txt
+Фламф (Flumph)
+DB/535.txt
+Флинд (Flind)
+DB/536.txt
+Фомор (Fomorian)
+DB/537.txt
+Хезроу (Hezrou)
+DB/538.txt
+Химера (Chimera)
+DB/539.txt
+Хитин (Chitine)
+DB/540.txt
+Хобгоблин (Hobgoblin)
+DB/541.txt
+Хобгоблин военачальник (Hobgoblin warlord)
+DB/542.txt
+Хобгоблин железная тень (Hobgoblin iron shadow)
+DB/543.txt
+Хобгоблин опустошитель (Hobgoblin devastator)
+DB/544.txt
+Холдрит (Choldrith)
+DB/545.txt
+Холмовой великан (Hill giant)
+DB/546.txt
+Цеповая улитка (Flail snail)
+DB/547.txt
+Циклоп (Cyclops)
+DB/548.txt
+Чазм (Chasme)
+DB/549.txt
+Человекообразная обезьяна (Ape)
+DB/550.txt
+Чемпион (Champion)
+DB/551.txt
+Черепная крыса (Cranium rat)
+DB/552.txt
+Черная слизь (Black pudding)
+DB/553.txt
+Черный медведь (Black bear)
+DB/554.txt
+Четырехрукий тролль (Four-handed trroll)
+DB/555.txt
+Чистокровная юань-ти (Yoan-ti pureblood)
+DB/556.txt
+Чууль (Chuul)
+DB/557.txt
+Шакал (Jaskal)
+DB/558.txt
+Шакальник (Jackalwere)
+DB/559.txt
+Шипастый дьявол (Гаматула) (Barbed devil)
+DB/560.txt
+Шлемоносный ужас (Helmed horror)
+DB/561.txt
+Шпион (Spy)
+DB/562.txt
+Штормовой великан (Storm giant)
+DB/563.txt
+Штормовой великан квинтэссент (Storm giant quintessent)
+DB/564.txt
+Шусува (Shoosuva)
+DB/565.txt
+Щитостраж (Shield guardian)
+DB/566.txt
+Эйзер (Azer)
+DB/567.txt
+Элитный воин грунгов (Grung elite warrior)
+DB/568.txt
+Элитный воитель дроу (Drow elite warrior)
+DB/569.txt
+Эмпирей (Empyrean)
+DB/570.txt
+Эриния (Erinyes)
+DB/571.txt
+Эттеркап (Ettercap)
+DB/572.txt
+Эттин (Ettin)
+DB/573.txt
+Юань-ти анафема (Yuan-ti anathema)
+DB/574.txt
+Юань-ти говорящая в кошмарах (Yuan-ti nightmare speaker)
+DB/575.txt
+Юань-ти проклинатель (Yoan-ti malison)
+DB/576.txt
+Юань-ти страж выводка (Yuan-ti broodguard)
+DB/577.txt
+Юань-ти хозяин ямы (Yuan-ti pit master)
+DB/578.txt
+Юань-ти шепчущий в мыслях (Yuan-ti mind whisperer)
+DB/579.txt
+Ядовитая змея (Poisonous snake)
+DB/580.txt
+Ястреб (Hawk)
+DB/581.txt
+Ящерица (Lizard)
+DB/582.txt
